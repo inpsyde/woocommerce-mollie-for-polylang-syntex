@@ -2,6 +2,10 @@
 
 Integration between Mollie Payments for WooCommerce and Polylang by Syntex plugin
 
+## UNMAINTAINED
+
+_NOTE:_ This repository is no longer maintained.
+
 ## Table Of Contents
 
 * [Installation](#installation)
